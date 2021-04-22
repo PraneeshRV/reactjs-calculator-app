@@ -10,5 +10,3 @@ real world calculator application developed using ReactJS
 * ReactJS.
 
 ## Project Preview:
-
-[calculator-app-reactjs](https://ali-tahir4024.github.io/calculator-app-in-react/)
